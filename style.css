@@ -1,0 +1,84 @@
+
+
+h1 {
+   font-family: 'Alegreya', serif;
+  color: #333A56;
+  text-decoration: underline;
+}
+
+h3 { font-family: 'EB Garamond', serif;
+font-size: 24px;
+font-weight: bolder;
+  text-align: center;
+color: #333A56;}
+
+/* #42ebf4 powder blue */
+/* #DCC7AA apple core */
+/* #E9E7DA choice for background*/
+
+header { color: #333A56;
+  background-color: #E9E7DA;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+ font-size: 100px}
+
+ /* background is golden apple*/
+ .topnav { overflow: hidden;
+   background-color: #96858F;
+ justify-content: space-around;}
+
+ /*links inside topnav*/
+ .topnav a { float: inherit;
+   display: inline-block;
+   color: #EFEFEF;
+   font-family: 'Playfair Display', serif;
+   text-align: center;
+   margin: auto;
+   text-decoration: none;
+ padding: 14px 55px;
+   font-size: 35px;
+ }
+ .topnav a:link    { color: #EFEFEF;  }
+ .topnav a:visited { color: #EFEFEF;   }
+ .topnav a:hover { background-color: #333A56}
+ .topnav a:active {background-color: #6D7993}
+
+main {margin-top: auto;}
+
+ body { background-color: #E9E7DA;
+  }
+/* other background option shell color #F8EEE7 */
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+p { font-family: Garamond;
+color: #333A56}
+
+   footer { margin-top: 40px;
+     color: white;
+     background-color: #CD5360;
+   font-family: fantasy;
+ text-align: center;}
+
+ img { display: inline;
+   width: 100px
+ }
+
+ .img-circle {border-radius: 50%;
+ }
+
+ img.resize { display: block;
+    margin: auto;
+  width:600px;
+  height:400px;
+}
+
+
+font-family: 'Satisfy', cursive;
+font-family: 'Walter Turncoat', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Alegreya', serif;
